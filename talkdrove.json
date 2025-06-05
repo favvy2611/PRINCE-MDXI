@@ -4,7 +4,7 @@
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://princeweb.onrender.com",
-  "owner-verification": "princemayel99@gmail.com",
+  "owner-verification": "favvyemma9@gmail.com",
   
   "env": {
     "SESSION_ID": {
@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "2348139598985"
     },
     
    
